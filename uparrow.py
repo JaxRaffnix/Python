@@ -1,4 +1,4 @@
-a = 4
+a = 3
 n = 2
 b = 3
 
@@ -17,6 +17,6 @@ print("UpArrow ist",uparrow(a, n, b))
 
 x= 5
 
-aber= "aber"
+aber= "aber aber"
 
 print ("füneff")
