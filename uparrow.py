@@ -1,6 +1,6 @@
-a = 3
-n = 2
-b = 3
+a = 2
+n = 1
+b = 2
 
 def uparrow(a, n, b):
     print(a, n, b)
@@ -17,6 +17,6 @@ print("UpArrow ist",uparrow(a, n, b))
 
 x= 5
 
-aber= "aber aber"
+aber= "aber aber aber"
 
 print ("füneff")
